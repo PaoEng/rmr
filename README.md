@@ -3,7 +3,7 @@
 ![alt](8ed16ed1-43f5-4ebb-a760-bd3dc0899083.jpg)
 
 
-Estensione per **GitHub Copilot CLI** che permette di cambiare il modello della sessione a runtime e di avviare background task scegliendo, per ciascuno, il modello più adatto al tipo di lavoro. Include una skill di guida e una struttura di repository pronta per la pubblicazione su GitHub.
+Estensione per **GitHub Copilot CLI** che permette di cambiare il modello della sessione a runtime e di avviare background task scegliendo, per ciascuno, il modello più adatto al tipo di lavoro. Include una skill di guida 
 
 Ispirato all'idea di poter "passare ferro" al modello giusto in base al task (codice, review, scripting), senza riavviare la sessione né perdere il contesto.
 
