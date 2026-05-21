@@ -1,0 +1,14 @@
+{
+  "code": {
+    "model": "claude-sonnet-4.6",
+    "description": "Scrittura codice e refactoring mirato"
+  },
+  "review": {
+    "model": "gpt-5.4",
+    "description": "Analisi, review e ragionamento approfondito"
+  },
+  "script": {
+    "model": "gpt-5.4-mini",
+    "description": "Script, task rapidi e automazioni leggere"
+  }
+}
